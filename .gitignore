@@ -1,0 +1,6 @@
+output/
+output_partial/
+*.jar
+__pycache__/
+.ipynb_checkpoints/
+.env

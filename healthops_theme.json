@@ -1,0 +1,12 @@
+{
+  "name": "HealthOps",
+  "dataColors": ["#0B6E99", "#F2A541", "#D1495B", "#2E933C", "#5B6770", "#7FB7D6", "#8E6C8A", "#B8860B"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2933",
+  "tableAccent": "#0B6E99",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F2933" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#5B6770" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#0B6E99" }
+  }
+}
